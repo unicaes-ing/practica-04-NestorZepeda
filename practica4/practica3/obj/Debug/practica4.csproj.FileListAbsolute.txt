@@ -1,0 +1,14 @@
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica3\practica3\obj\Debug\practica4.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica3\practica3\obj\Debug\practica4.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica3\practica3\bin\Debug\practica3.exe.config
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica3\practica3\bin\Debug\practica3.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica3\practica3\bin\Debug\practica3.pdb
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica3\practica3\obj\Debug\practica3.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica3\practica3\obj\Debug\practica3.pdb
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica4\practica3\bin\Debug\practica3.exe.config
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica4\practica3\bin\Debug\practica3.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica4\practica3\bin\Debug\practica3.pdb
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica4\practica3\obj\Debug\practica4.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica4\practica3\obj\Debug\practica4.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica4\practica3\obj\Debug\practica3.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\practica4\practica3\obj\Debug\practica3.pdb
